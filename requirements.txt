@@ -1,0 +1,7 @@
+einops==0.7.0
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.2.0
+reformer_pytorch==1.4.4
+scikit_learn==1.4.0
+torch==2.1.0
