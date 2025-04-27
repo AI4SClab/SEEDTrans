@@ -31,8 +31,6 @@ The framework includes:
 - **Cross-Fusion Strategy**  
   Fuses features across scales and decomposition levels.
 
-![Framework](docs/images/framework.png) *(replace with your actual image)*
-
 ---
 
 ## 🧪 Experimental Results
